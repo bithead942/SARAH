@@ -1,0 +1,11 @@
+C:\Users\Greg\Projects\Sara\Sara\Sara\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Greg\Projects\Sara\Sara\Sara\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Greg\Projects\Sara\Sara\Sara\obj\Debug\Sara.vbproj.GenerateResource.Cache
+C:\Users\Greg\Projects\Sara\Sara\Sara\bin\Debug\Sarah.exe.config
+C:\Users\Greg\Projects\Sara\Sara\Sara\bin\Debug\Sarah.exe
+C:\Users\Greg\Projects\Sara\Sara\Sara\bin\Debug\Sarah.pdb
+C:\Users\Greg\Projects\Sara\Sara\Sara\bin\Debug\Sarah.xml
+C:\Users\Greg\Projects\Sara\Sara\Sara\obj\Debug\WindowsApplication1.Sarah.resources
+C:\Users\Greg\Projects\Sara\Sara\Sara\obj\Debug\Sarah.exe
+C:\Users\Greg\Projects\Sara\Sara\Sara\obj\Debug\Sarah.xml
+C:\Users\Greg\Projects\Sara\Sara\Sara\obj\Debug\Sarah.pdb

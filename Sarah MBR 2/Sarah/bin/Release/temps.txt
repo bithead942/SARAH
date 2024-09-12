@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"><Current><Current_Condition>Fair</Current_Condition><Current_Temp>24</Current_Temp></Current><Temps><High>28</High><Low>17</Low></Temps><Temps><High>36</High><Low>33</Low></Temps></rss>

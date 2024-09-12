@@ -1,0 +1,34 @@
+C:\Users\Greg\Projects\Sara\Sara\Sarah\bin\Debug\Sarah.exe.config
+C:\Users\Greg\Projects\Sara\Sara\Sarah\obj\Debug\Sarah.exe
+C:\Users\Greg\Projects\Sara\Sara\Sarah\obj\Debug\Sarah.xml
+C:\Users\Greg\Projects\Sara\Sara\Sarah\obj\Debug\Sarah.pdb
+C:\Users\Greg\Projects\Sara\Sarah\Sarah\bin\Debug\Sarah.exe.config
+C:\Users\Greg\Projects\Sara\Sarah\Sarah\obj\Debug\Sarah.exe
+C:\Users\Greg\Projects\Sara\Sarah\Sarah\obj\Debug\Sarah.xml
+C:\Users\Greg\Projects\Sara\Sarah\Sarah\obj\Debug\Sarah.pdb
+C:\Users\Greg\Projects\Sarah\Sarah\Sarah\bin\Debug\Sarah.exe.config
+C:\Users\Greg\Projects\Sarah\Sarah\Sarah\obj\Debug\Sarah.exe
+C:\Users\Greg\Projects\Sarah\Sarah\Sarah\obj\Debug\Sarah.xml
+C:\Users\Greg\Projects\Sarah\Sarah\Sarah\obj\Debug\Sarah.pdb
+C:\Users\Greg\Projects\Sarah\Sarah\Sarah\bin\Debug\Sarah.exe
+C:\Users\Greg\Projects\Sarah\Sarah\Sarah\bin\Debug\Sarah.pdb
+C:\Users\Greg\Projects\Sarah\Sarah\Sarah\bin\Debug\Sarah.xml
+C:\Users\Greg\Projects\Sarah\Sarah\Sarah\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Greg\Projects\Sarah\Sarah\Sarah\obj\Debug\WindowsApplication1.Sarah.resources
+C:\Users\Greg\Projects\Sarah\Sarah\Sarah\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Greg\Projects\Sarah\Sarah\Sarah\obj\Debug\Sarah.vbproj.GenerateResource.Cache
+C:\Users\Greg\Documents\Sarah\Sarah\bin\Debug\SARAH.exe.config
+C:\Users\Greg\Documents\Sarah\Sarah\bin\Debug\SARAH.exe
+C:\Users\Greg\Documents\Sarah\Sarah\bin\Debug\SARAH.pdb
+C:\Users\Greg\Documents\Sarah\Sarah\bin\Debug\SARAH.xml
+C:\Users\Greg\Documents\Sarah\Sarah\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Greg\Documents\Sarah\Sarah\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Greg\Documents\Sarah\Sarah\obj\Debug\WindowsApplication1.Sarah.resources
+C:\Users\Greg\Documents\Sarah\Sarah\obj\Debug\SARAH.vbproj.GenerateResource.Cache
+C:\Users\Greg\Documents\Sarah\Sarah\obj\Debug\SARAH.exe
+C:\Users\Greg\Documents\Sarah\Sarah\obj\Debug\SARAH.xml
+C:\Users\Greg\Documents\Sarah\Sarah\obj\Debug\SARAH.pdb
+C:\Users\Greg\Documents\Sarah MBR 2\Sarah\bin\Debug\SARAH.exe.config
+C:\Users\Greg\Documents\Sarah MBR 2\Sarah\obj\Debug\SARAH.exe
+C:\Users\Greg\Documents\Sarah MBR 2\Sarah\obj\Debug\SARAH.xml
+C:\Users\Greg\Documents\Sarah MBR 2\Sarah\obj\Debug\SARAH.pdb

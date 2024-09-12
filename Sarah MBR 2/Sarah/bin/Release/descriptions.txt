@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?><description><A>Temperature: 26.8&amp;deg;F | Humidity: 46% | Pressure: 30.43in (Rising) | Conditions: Clear | Wind Direction: North | Wind Speed: 0.0mph&lt;img src="http://server.as5000.com/AS5000/adserver/image?ID=WUND-00070&amp;C=0" width="0" height="0" border="0"/&gt;
+	</A><A>
+	Saturday - Partly cloudy. High of 30F with a windchill as low as 12F. Winds from the NW at 5 to 10 mph.
+      </A><A>
+	Saturday Night - Partly cloudy. Low of 19F. Winds from the ESE at 5 to 10 mph.
+      </A><A>
+	Sunday - Partly cloudy in the morning, then overcast with a chance of rain. High of 36F with a windchill as low as 19F. Winds from the SE at 5 to 10 mph. Chance of rain 30%.
+      </A></description>
